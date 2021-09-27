@@ -1,0 +1,235 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2.5cm
+\rightmargin 1.5cm
+\bottommargin 2cm
+\headsep 0.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+The China Study
+\end_layout
+
+\begin_layout Author
+T.
+ Colin Campbell and Thomas M.
+ Campbell
+\end_layout
+
+\begin_layout Section
+Background and Personal History
+\end_layout
+
+\begin_layout Standard
+In the fist part of the book he tells of his history on deary farm as a
+ child and how at that time the thinking was that the more protein the better
+ and that cow milk is good as it has calcium.
+\end_layout
+
+\begin_layout Standard
+He also goes into detail on the academic background and atmosphere at the
+ time.
+\end_layout
+
+\begin_layout Standard
+Then he tells us of his time in the Philippians here his goal was to aid
+ in solving nutrition problems for the children over there by adding protein
+ to there diet.
+ The problem was that he noticed that the better off children had more liver
+ cancer.
+ Eventually he tracked this down to the relative more protein that they
+ were eating long side alphatoxin that originated from a mold that grows
+ on peanuts.
+ He then found a paper from India that found that mice that had more protein
+ were more likely to get liver cancer.
+\end_layout
+
+\begin_layout Section
+Lab Work
+\end_layout
+
+\begin_layout Standard
+As this paper from India made no seance in the eyes of the researchers of
+ the time, but did lineup with his observations of the children he saw,
+ he set out to test this in the lab for himself, along with students and
+ team.
+\end_layout
+
+\begin_layout Standard
+The findings were:
+\end_layout
+
+\begin_layout Enumerate
+When feeding mice 5% milk protein (casein), the level of alphatoxin did
+ not matter, the mice did not get cancer (in fact focee).
+\end_layout
+
+\begin_layout Enumerate
+When they fed the mice 20% (of calorie) from casein they all got cancer
+ when exposed to alphatoxin.
+\end_layout
+
+\begin_layout Enumerate
+Plant protein did not have this effect.
+\end_layout
+
+\begin_layout Enumerate
+They could 
+\begin_inset Quotes eld
+\end_inset
+
+turn
+\begin_inset Quotes erd
+\end_inset
+
+ cancer on/off in the same mice by switching them from one diet to the other
+ including putting the cancer in total remission.
+\end_layout
+
+\begin_layout Enumerate
+The same effect was produced in rats and with pancreatic cancer with response
+ to HBV (Hepatitis B Virus).
+\end_layout
+
+\begin_layout Enumerate
+There are many more experiments described in the book as they did experiments
+ for some decades.
+ This includes following mice for over 2 years and playing with the diet
+ in that time and many more.All experiments indicate that animal protein
+ along with exposure to a carcinogen will case cancer while the absence
+ of such protein will prevent the cancer regardless of the presence of the
+ carcinogen.
+\end_layout
+
+\begin_layout Section
+The China Study
+\end_layout
+
+\begin_layout Standard
+This is the well known study ran in rural China that took data on the prevalence
+ of cancer and other health issues in rural China and correlated them with
+ many data points collected on the same people with respect to there diet.
+ In short these correlations lined up perfectly with the data from the lab
+ experiments indicating that the same effects are present in humans.
+ The power of this is that this is not only a large epidemiological study.
+ Its results also have an experimental causation effect demonstrated in
+ the lab.
+ Although this is not a double blind placebo controlled crossover study.
+ The strength of the effect is high due to the alignment to the lab tests
+\end_layout
+
+\begin_layout Subsection
+The problem with the Atkins diet
+\end_layout
+
+\begin_layout Standard
+The first point of all the low carbohydrate diets is that 
+\begin_inset Quotes eld
+\end_inset
+
+America has been testing this for the last so and so decades, and it is
+ not proving to be a good idea
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The one problem with this statement is that although true that the recommendati
+on is that Americans eat a low fat diet, this is not what has been happening.Ther
+e are studies proving that the Atkins diet works to reduce weight in obese
+ people, and even reduce there cholesterol levels.
+ What is not so publicly displayed is that in the studies the caloric restrictio
+n was very harsh (35% under the regular caloric intake 2250 -> 1450).
+ This is not sustainable.This is not to mention that in the same study 68%
+ of the people reported constipation 63% reported bad breath 51% reported
+ headaches 10% reported hair loss.
+ So this is not looking to healthy, is it? In addition they refer to other
+ papers where the same diet in children cased calcium oxalate to be present
+ in there urine, which could lead to kidney stones.
+ IT could lead to women missing there period Subjects having low vitamin
+ levels and/or high cholesterol.
+ The researchers found high levels of calcium in subjects unite which could
+ be associates with bone density loss.
+\end_layout
+
+\begin_layout Standard
+In short not a good thing.
+\end_layout
+
+\end_body
+\end_document
